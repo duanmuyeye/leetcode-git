@@ -1,8 +1,4 @@
 package com.duan.leetcode;
-
-import java.io.ObjectInputStream;
-import java.sql.Array;
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class offer_40 {
